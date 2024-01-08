@@ -19,7 +19,7 @@ Clone the project to your directory and install the dependencies.
 ## Started Local Development
 run the development server using npm:
 ```bash
-  npm run dev
+  npm run start
 ```
 
 Open your local server with your browser to see the result.
